@@ -22,7 +22,7 @@ A Python game based on Pygame, featuring a spaceship that defends itself against
 
 ## Usage
 ```bash
-pip install pygame 
+python main.py
 ```
 ## Game Structure
 
