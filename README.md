@@ -39,10 +39,10 @@ The game's source code is organized into the following files:
 - `starts.py`: Contains the `draw_stars` function for drawing stars in the background.
 
 ## License
-
+***This is an example***
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2023 [Algoo]
 
 Portions of this project are based on code by Eric Matthes.
 
