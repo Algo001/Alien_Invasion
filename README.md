@@ -15,11 +15,12 @@ A Python game based on Pygame, featuring a spaceship that defends itself against
 - Python 3.x
 - Pygame
 
-## Installation and ## Usage
+## Installation
 
 1. Clone the repository or download the source code.
 2. Install Pygame by running the following command:
 
+## Usage
 ```bash
 pip install pygame 
 ```
