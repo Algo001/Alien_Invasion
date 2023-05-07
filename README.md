@@ -21,7 +21,8 @@ A Python game based on Pygame, featuring a spaceship that defends itself against
 2. Install Pygame by running the following command:
 
 ```bash
-pip install pygame
+pip install pygame 
+```
 
 
 ![Screenshot 2023-05-07 111323](https://user-images.githubusercontent.com/103477351/236686185-039e8a3d-155e-4ba3-80bd-b17b2faa7011.png)
